@@ -1,0 +1,1 @@
+Returns true if the string entered is true.

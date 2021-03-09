@@ -1,0 +1,1 @@
+This project tells the user what kind of hand that they have in a game of 5 card draw.
